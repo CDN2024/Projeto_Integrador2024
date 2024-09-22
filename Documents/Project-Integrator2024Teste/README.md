@@ -1,1 +1,0 @@
-# O projeto visa a criacao de uma empresa
