@@ -5,8 +5,8 @@ import random
 # Listas de palavras relacionadas à liderança
 categorias = {
     "Características": ['empatia', 'comunicacao', 'motivacao', 'resiliencia', 'integridade', 'autoconfiança', 'humildade', 'proatividade', 'visao', 'autodisciplina'],
-    "Habilidades": ['estrategia', 'tomadadecisao', 'gestao', 'negociacao', 'resolucaodeconflitos', 'delegacao', 'planejamento', 'mentoria', 'inovacao', 'feedback'],
-    "Equipe": ['colaboracao', 'inclusao', 'confiança', 'diversidade', 'trabalhoemteam', 'empoderamento', 'sinergia', 'desempenho', 'cooperacao', 'engajamento']
+    "Habilidades": ['estrategia', 'tomada de decisao', 'gestao', 'negociacao', 'resolucao de conflitos', 'delegacao', 'planejamento', 'mentoria', 'inovacao', 'feedback'],
+    "Equipe": ['colaboracao', 'inclusao', 'confiança', 'diversidade', 'trabalho em team', 'empoderamento', 'sinergia', 'desempenho', 'cooperacao', 'engajamento']
 }
 
 # Função do Jogo da Forca
